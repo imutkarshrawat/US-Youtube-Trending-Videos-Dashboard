@@ -1,4 +1,3 @@
-# US-Youtube-Trending-Videos-Dashboard
 # 📊 YouTube Trending Videos Analysis (US)
 
 ## 📌 Overview
@@ -50,15 +49,6 @@ Categories such as *Cars & Vehicles*, *News & Politics*, and *Travel & Events* c
 
 **5. Which categories generate the most views?**
 *Entertainment*, *Music*, and *How-to & Style* dominate in total views, reflecting their broad audience appeal.
-
----
-
-
-* **Entertainment & Music** → highest views but lower engagement efficiency
-* **Niche categories** → higher engagement rates
-* Engagement shows a **declining trend over time**
-* Some high-view videos have low likes → **possible clickbait**
-
 ---
 
 ## 🛠️ Tools Used
