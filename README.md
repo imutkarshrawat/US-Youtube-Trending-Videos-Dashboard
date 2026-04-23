@@ -49,6 +49,7 @@ Categories such as *Cars & Vehicles*, *News & Politics*, and *Travel & Events* c
 
 **5. Which categories generate the most views?** -
 *Entertainment*, *Music*, and *How-to & Style* dominate in total views, reflecting their broad audience appeal.
+
 ---
 
 
