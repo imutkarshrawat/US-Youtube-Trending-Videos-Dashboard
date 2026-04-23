@@ -27,29 +27,30 @@ The dataset was **messy**, so it was cleaned and transformed before building an 
 
 ## ❓ Key Questions & Insights
 
-**1. Which categories have high engagement rates?**
+**1. Which categories have high engagement rates?** -
 Categories like *Nonprofits & Activism* show the highest engagement rates, indicating a smaller but highly interactive audience.
 
 ---
 
-**2. How has engagement changed over time?**
+**2. How has engagement changed over time?** -
 Engagement rate has declined over time across most categories, suggesting increasing passive consumption or content saturation.
 
 ---
 
-**3. Are there any notable outliers in performance?**
+**3. Are there any notable outliers in performance?** -
 Some videos achieve very high views but relatively low likes, indicating potential clickbait or low audience satisfaction.
 
 ---
 
-**4. Which categories perform best in terms of engagement?**
+**4. Which categories perform best in terms of engagement?** -
 Categories such as *Cars & Vehicles*, *News & Politics*, and *Travel & Events* consistently rank high in engagement, showing strong audience interaction.
 
 ---
 
-**5. Which categories generate the most views?**
+**5. Which categories generate the most views?** -
 *Entertainment*, *Music*, and *How-to & Style* dominate in total views, reflecting their broad audience appeal.
 ---
+
 
 ## 🛠️ Tools Used
 
